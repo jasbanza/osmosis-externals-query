@@ -1,0 +1,29 @@
+{
+  "name": "osmosis-externals-query",
+  "version": "1.0.0",
+  "description": "query externals",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasbanza/osmosis-externals-query.git"
+  },
+  "author": "jasbanza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jasbanza/osmosis-externals-query/issues"
+  },
+  "homepage": "https://github.com/jasbanza/osmosis-externals-query#readme",
+  "dependencies": {
+    "js-console-log-colors": "^1.1.0",
+    "node-fetch": "^2.6.7"
+  },
+  "keywords": [
+    "osmosis",
+    "api",
+    "webservice"
+  ]
+}
