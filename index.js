@@ -7,7 +7,7 @@ const out = new ConsoleLogColors();
 
 const config = {
   API_QUERY_URL:
-    "https://lcd-osmosis.blockapsis.com/osmosis/pool-incentives/v1beta1/external_incentive_gauges",
+    "https://api.osl.zone/osmosis/incentives/v1beta1/gauges?pagination.limit=9999",
   host: "localhost",
   port: 7000,
   cache_seconds: 3600,
