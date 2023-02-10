@@ -1,5 +1,7 @@
 package-lock.json
 
+externals.json
+
 # Logs
 logs
 *.log
